@@ -1,6 +1,6 @@
 # Limpieza y análisis de datos - Automobile dataset de Kaggle
 
-### Datos de automóviles donde se incluye la información de sus fabricantes y otras características relevantes [Enlace Aqui](https://www.kaggle.com/toramky/automobile-dataset)
+### Datos de automóviles donde se incluye la información de sus fabricantes y otras características relevantes, obtenido de la pagina de [Kaggle](https://www.kaggle.com/toramky/automobile-dataset)
 
 ## Autores
 Realizado por Jhon Harry Loaiza y Pablo de Jesús Sánchez.
