@@ -11,5 +11,5 @@ El código y el dataset resultante, es parte de la Práctica 2 de la asignatura 
 Profesor consultor: Jose Moreira Sánchez
 
 ## Dataset
-El dataset original y el dataset con la limpieza de los datos puede ser consultado [aqui](https://github.com/JhonHarry/automobile_data_kaggle_limpieza/tree/main/Data)
+El dataset original con el que se realizo el ejercicio puede ser consultado [aqui](https://github.com/JhonHarry/automobile_data_kaggle_limpieza/blob/main/Data/Automobile_data.csv)
 
