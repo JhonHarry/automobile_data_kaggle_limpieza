@@ -17,11 +17,11 @@ Profesor consultor: Jose Moreira Sánchez
 El dataset original con el que se realizo el ejercicio puede ser consultado [aqui](https://github.com/JhonHarry/automobile_data_kaggle_limpieza/blob/main/Data/Automobile_data.csv)
 
 ## Ficheros
-* /PDF/: contiene el archivo pdf con la documentacion y la respuesta a las preguntas de la practica. 
+* **PDF**: contiene el archivo pdf con la documentacion y la respuesta a las preguntas de la practica. 
 
-* /Data/: contiene el archivo csv con los datos originales de Kaggle (Automobile_data.csv), el archivo resultante luego de la limpieza (automobile_data_limpio.csv) y un fichero con datos a predecir por el modelo de clustering (automobile_nuevo.csv).
+* **Data**: contiene el archivo csv con los datos originales de Kaggle (Automobile_data.csv), el archivo resultante luego de la limpieza (automobile_data_limpio.csv) y un fichero con datos a predecir por el modelo de clustering (automobile_nuevo.csv).
 
-* /Code/: contiene el notebook (Automobile_Limpieza de datos.ipynb) usado por Jupyter para desarrollar la practica.
+* **Code**: contiene el notebook (Automobile_Limpieza de datos.ipynb) usado por Jupyter para desarrollar la practica.
 
 ## Licencia
 El contenido de este proyecto esta licencia bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente usadao para mostrar este contenido esta licenciado bajo la MIT license.
